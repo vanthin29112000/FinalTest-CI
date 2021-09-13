@@ -1,0 +1,19 @@
+.result-short-link {
+   width: 40%;
+   height: fit-content;
+   border-radius: 16px;
+   padding: 32px;
+   margin: 32px auto;
+   background-color: white;
+   text-align: center;
+}
+
+.result-short-link__title {
+   font-size: 24px;
+   margin-bottom: 8px;
+}
+
+.result-short-link a {
+   font-size: 32px;
+   color: rgb(36, 173, 36);
+}
